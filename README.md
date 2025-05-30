@@ -7,7 +7,7 @@ Previously, I was at [**Apollo**](https://www.apollossc.com/) and [**Sopra Steri
 
 I'm a tech lover mostly everything around Ops subject (k8s, Docker, etc.). I've worked on high-impact products (apps running in nuclear centrals or french public services). I have contributed to major apps with large amount of traffic.
 
-Outside of work, I'm a sportsperson. I'm currently playing rugby for [**EMS Bron XV**](https://emsbronxv.fr/). I also like playing video games <img src="https://emojis.slackmojis.com/emojis/images/1703376006/83836/sky_gamingq.gif?1703376006" width="25"/>.
+Outside of work, I'm a sportsperson. I'm currently playing rugby for [**EMS Bron XV**](https://emsbronxv.fr/) <img src="https://emojis.slackmojis.com/emojis/images/1643516466/25033/rugby-playing.gif?1643516466" width="25"/>.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/calvin-macoley/?locale=en_US)
