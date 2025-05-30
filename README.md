@@ -1,8 +1,8 @@
 ### Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="25"/>
 
-I'm [**Calvin**](http://macoley.com/), a Software Engineer base in Lyon, France, with a strong interest in DevOps and Cloud technologies.
+I'm [**Calvin**](http://macoley.com/), a Software Engineer based in Lyon, France, with a strong interest in DevOps and Cloud technologies.
 
-I'm currently working as a software engineer at [**CGI**](https://www.cgi.com/en), where I develop an application (using Angualr/Java) for France's leading energy provider.
+I'm currently working as a software engineer at [**CGI**](https://www.cgi.com/en), where I develop an application (using Angular/Java) for France's leading energy provider.
 Previously, I was at [**Apollo**](https://www.apollossc.com/) and [**Sopra Steria**](https://www.soprasteria.com/home).
 
 I'm a tech lover mostly everything around Ops subject (k8s, Docker, etc.). I've worked on high-impact products (apps running in nuclear centrals or french public services). I have contributed to major apps with large amount of traffic.
